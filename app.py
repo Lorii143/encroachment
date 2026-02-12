@@ -8,7 +8,6 @@ Author: Marylorine Akinyi
 Institution: Strathmore University
 """
 
-=======
 
 import streamlit as st
 import pandas as pd
