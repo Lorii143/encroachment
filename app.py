@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 """
 Nairobi Road Reserve Encroachment Mapping System
 Interactive web application for visualizing and analyzing building encroachments
@@ -9,12 +9,12 @@ Institution: Strathmore University
 """
 
 =======
->>>>>>> 345f965301045b525f0d1c1dbf3559526e4c4b92
+
 import streamlit as st
 import pandas as pd
 import geopandas as gpd
 import folium
-<<<<<<< HEAD
+
 from streamlit_folium import st_folium
 import plotly.express as px
 import plotly.graph_objects as go
@@ -887,20 +887,20 @@ with tab4:
         st.write(f"**Columns:** {len(filtered_df.columns)}")
     
     st.dataframe(filtered_df, use_container_width=True, height=400)
->>>>>>> 345f965301045b525f0d1c1dbf3559526e4c4b92
+
 
 # Footer
 st.markdown("---")
 st.markdown("""
-<<<<<<< HEAD
+
 <div style="text-align: center; color: gray; padding: 20px;">
     <p><b>Nairobi Road Reserve Encroachment Mapping System</b></p>
     <p>Developed by Marylorine Akinyi | Strathmore University | MSc Data Science & Analytics</p>
     <p>Data Source: OpenStreetMap | Last Updated: February 2026</p>
-=======
+
 <div style='text-align: center; color: #666;'>
     <p>Nairobi Road Encroachment Monitoring System | Demo Version with Sample Data</p>
     <p>For production use, integrate with live OpenStreetMap data and local databases</p>
->>>>>>> 345f965301045b525f0d1c1dbf3559526e4c4b92
+
 </div>
 """, unsafe_allow_html=True)
