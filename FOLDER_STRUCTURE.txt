@@ -1,0 +1,20 @@
+.
+ .github
+  workflows
+   streamlit-app.yml
+ .gitignore
+ .streamlit
+  config.toml
+ DEPLOYMENT.md
+ FOLDER_STRUCTURE.txt
+ GITHUB_GUIDE.md
+ INDEX.md
+ LICENSE
+ PROJECT_SUMMARY.md
+ QUICKSTART.md
+ README.md
+ app.py
+ data_loader.py
+ requirements.txt
+ setup.bat
+ setup.sh
