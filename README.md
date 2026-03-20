@@ -424,10 +424,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<<<<<<< HEAD
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 📧 Contact
 
@@ -437,14 +433,7 @@ GitHub: [@Lorii143](https://github.com/Lorii143)
 
 Project Link: [https://github.com/Lorii143/encroachment](https://github.com/Lorii143/encroachment)
 
-## 🙏 Acknowledgments
 
-- OpenStreetMap contributors for geospatial data
-- Strathmore University for academic support
-- Streamlit team for the amazing framework
-- Nairobi County Government for road reserve specifications
-
----
 
 **⭐ If you found this project helpful, please consider giving it a star!**
 =======
@@ -470,29 +459,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Marylorine Akinyi**
 - Institution: Strathmore University
 - Program: MSc Data Science & Analytics
-- Email: your.email@example.com
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Email: marylorine.akinyi@strathmore.edu
+  
 
-## 🙏 Acknowledgments
-
-- OpenStreetMap contributors for the geospatial data
-- Streamlit team for the amazing framework
-- Strathmore University for academic support
-- Nairobi City County for urban planning insights
-
-## 📞 Contact
-
-For questions, suggestions, or collaboration:
-
-- Email: your.email@example.com
-- GitHub Issues: [Create an issue](https://github.com/yourusername/nairobi-encroachment-mapper/issues)
-- LinkedIn: [Connect with me](https://linkedin.com/in/yourprofile)
-
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a star ⭐
-
----
-
-**Built with ❤️ for better urban planning in Nairobi**
->>>>>>> 345f965301045b525f0d1c1dbf3559526e4c4b92
